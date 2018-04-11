@@ -342,3 +342,9 @@ background-size:100px 50px;*/
   margin-left: auto !important;
 
 }
+
+  
+.brand-left{
+  justify-content: left;
+  position: absolute;
+}
